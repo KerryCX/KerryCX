@@ -2,8 +2,10 @@
 I'm Kerry, Front-End Web Developer. 
 Graduated from Bath Spa University's first Skills Bootcamp in Web Development in October 2021 cohort.
 
-I am ready to get stuck into working as a Software Developer. Looking for a company where I can grow and contribute, where code quality and cutting edge technologies are important.
+I am ready to get stuck into working as a Front End Web Developer. Looking for a company where I can grow and contribute, where code quality and cutting edge technologies are important.
 
 https://kerrycx.github.io/tic-tac-toe/
 
 https://kerrycx.github.io/time-tracking-dash-react/
+
+https://kerrycx.github.io/learning-kendo-ui/
